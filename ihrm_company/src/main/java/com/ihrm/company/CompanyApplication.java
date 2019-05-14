@@ -1,8 +1,10 @@
 package com.ihrm.company;
 
+import com.ihrm.common.utils.IdWorker;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.autoconfigure.domain.EntityScan;
+import org.springframework.context.annotation.Bean;
 
 /**
  * author:bigStone
@@ -19,5 +21,12 @@ public class CompanyApplication {
     public static void main(String[] args) {
         SpringApplication.run(CompanyApplication.class, args);
     }
+
+    //初始化IdWorker
+    @Bean
+    public IdWorker idWorker(){
+        return new IdWorker();
+    }
+
 
 }

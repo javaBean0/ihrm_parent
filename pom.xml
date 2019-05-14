@@ -9,9 +9,8 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>ihrm_common</module>
-        <module>ihrm_common_system</module>
-        <module>ihrm_common_model</module>
         <module>ihrm_company</module>
+        <module>ihrm_common_model</module>
     </modules>
 
     <packaging>pom</packaging>
