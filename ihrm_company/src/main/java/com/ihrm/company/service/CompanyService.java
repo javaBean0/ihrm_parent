@@ -52,10 +52,10 @@ public class CompanyService {
 
     /**
      * 根据id删除
-     * @param company
+     * @param id
      */
-    public void delete(Company company){
-        companyDao.deleteById(company.getId());
+    public void deleteById(String id){
+        companyDao.deleteById(id);
     }
 
     /**

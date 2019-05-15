@@ -1,7 +1,7 @@
 package com.ihrm.company;
 
 import com.ihrm.company.dao.CompanyDao;
-import com.ihrm.company.domain.Company;
+import com.ihrm.domain.company.Company;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
