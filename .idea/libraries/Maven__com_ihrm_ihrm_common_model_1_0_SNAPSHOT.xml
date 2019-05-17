@@ -1,15 +1,15 @@
 <component name="libraryTable">
   <library name="Maven: com.ihrm:ihrm_common_model:1.0-SNAPSHOT">
     <CLASSES>
-      <root url="jar://D:/First_level_directory/repository/com/ihrm/ihrm_common_model/1.0-SNAPSHOT/ihrm_common_model-1.0-SNAPSHOT.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/ihrm/ihrm_common_model/1.0-SNAPSHOT/ihrm_common_model-1.0-SNAPSHOT.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$PROJECT_DIR$/ihrm_common_model/ihrm_common_model-1.0-SNAPSHOT-javadoc.jar!/" />
-      <root url="jar://D:/First_level_directory/repository/com/ihrm/ihrm_common_model/1.0-SNAPSHOT/ihrm_common_model-1.0-SNAPSHOT-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/ihrm/ihrm_common_model/1.0-SNAPSHOT/ihrm_common_model-1.0-SNAPSHOT-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
       <root url="jar://$PROJECT_DIR$/ihrm_common_model/ihrm_common_model-1.0-SNAPSHOT-sources.jar!/" />
-      <root url="jar://D:/First_level_directory/repository/com/ihrm/ihrm_common_model/1.0-SNAPSHOT/ihrm_common_model-1.0-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/ihrm/ihrm_common_model/1.0-SNAPSHOT/ihrm_common_model-1.0-SNAPSHOT-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

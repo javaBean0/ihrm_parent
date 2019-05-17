@@ -1,6 +1,12 @@
 <component name="ArtifactManager">
   <artifact type="war" name="ihrm_company:war">
     <output-path>$PROJECT_DIR$/ihrm_company/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>ihrm_company</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
     <root id="archive" name="ihrm_company-1.0-SNAPSHOT.war">
       <element id="artifact" artifact-name="ihrm_company:war exploded" />
     </root>

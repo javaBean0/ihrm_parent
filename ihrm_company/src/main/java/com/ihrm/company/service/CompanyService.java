@@ -6,6 +6,7 @@ import com.ihrm.domain.company.Company;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+import javax.transaction.Transactional;
 import java.util.List;
 
 /**
@@ -13,6 +14,7 @@ import java.util.List;
  * Date:2019/5/14
  **/
 @Service
+@Transactional
 public class CompanyService {
 
     @Autowired
